@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @eevanwong
-- 👀 I’m interested in web dev, open source, or anything inbetween!
+👋 Hi, I’m @eevanwong
+👀 I’m interested in web dev, open source, or anything inbetween!
 
 <!--
 - 🌱 I’m currently trying to expand my k
