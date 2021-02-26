@@ -1,9 +1,9 @@
 👋 Hi, I’m @eevanwong 
 <br>
 👀 I’m interested in web dev, open source, or anything inbetween!
+🌱 I’m currently trying to expand my knowledge in the MERN/SERN stack
 
 <!--
-- 🌱 I’m currently trying to expand my k
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
