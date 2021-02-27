@@ -1,5 +1,4 @@
-👋 Hi, I’m @eevanwong, a JavaScript/Python developer
-
+👋 Hi, I’m @eevanwong, a Systems Design Engineering student at the University of Waterloo!
 <br>
 👀 I’m interested in web dev, open source, or anything inbetween!
 <br>
