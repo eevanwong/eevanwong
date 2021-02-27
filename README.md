@@ -1,7 +1,8 @@
-👋 Hi, I’m eevanwong, a Systems Design Engineering student at the University of Waterloo!
+👋 Hi, I’m Evan, junior systems engineering student and a Poppins font abuser, whos interested in open-source, web dev, and anything inbetween!
 <br>
-👀 I’m interested in web dev, open source, or anything inbetween!
 <br>
+I mainly develop in JS or Python, but I've dabbled in Java and C++.
+
 
 <!--
 - 💞️ I’m looking to collaborate on ...
