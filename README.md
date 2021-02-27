@@ -1,8 +1,8 @@
-👋 Hi, I’m @eevanwong 
+👋 Hi, I’m @eevanwong, a JavaScript/Python developer
+
 <br>
 👀 I’m interested in web dev, open source, or anything inbetween!
 <br>
-🌱 I’m currently trying to expand my knowledge in the MERN/SERN stack
 
 <!--
 - 💞️ I’m looking to collaborate on ...
