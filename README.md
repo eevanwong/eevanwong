@@ -2,7 +2,8 @@ Hi, I’m Evan 🙌, junior systems engineering student, interested in open-sour
 <br>
 <br>
 I mainly develop in JS or Python, but I've dabbled in Java and C++.
-
+<br>
+Currently, I'm learning about React in its overall place in the MERN stack.
 
 <!--
 - 💞️ I’m looking to collaborate on ...
