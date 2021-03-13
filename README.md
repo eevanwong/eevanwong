@@ -1,4 +1,4 @@
-Hi, I’m Evan 🙌, junior systems engineering student, interested in open-source, the poppins font, web dev, and anything inbetween!
+Hi, I’m Evan 🙌, a junior systems engineering student, interested in open-source, the poppins font, web dev, and anything inbetween!
 <br>
 <br>
 I mainly develop in JS or Python, but I've dabbled in Java and C++.
