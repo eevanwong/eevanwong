@@ -17,4 +17,5 @@ I am a junior systems engineering student at the University of Waterloo. I'm int
 
 ### Reach me @:
 Linkedin: https://www.linkedin.com/in/iamevanwong/
+<br>
 Email: evan.wong@uwaterloo.ca
