@@ -1,8 +1,10 @@
-# Hey! I'm Evan.
+## Hey! I'm Evan.
+
 
 ### 🙌 About 
 
 I am a junior systems engineering student at the University of Waterloo. I'm interested in open-source, the poppins font, web dev, and anything inbetween! Currently, I'm developing a
+
 
 ### I'm learning:
 - React/Redux
@@ -11,6 +13,7 @@ I am a junior systems engineering student at the University of Waterloo. I'm int
 - SQL
 - Firebase 
 - AI (Python)
+
 
 ### Reach me @:
 Linkedin: https://www.linkedin.com/in/iamevanwong/
