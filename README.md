@@ -9,7 +9,7 @@ I'm a first year Systems Design Engineering student at the University of Waterlo
 - React/Redux
 - TypeScript
 - NodeJS/Express Backends
-- SQL
+- Neo4J
 - Firebase 
 - AI (Python)
 
