@@ -1,15 +1,17 @@
-Hi, I’m Evan 🙌, a junior systems engineering student, interested in open-source, the poppins font, web dev, and anything inbetween!
-<br>
-<br>
-I mainly develop in JS or Python, but I've dabbled in Java and C++.
-<br>
-<br>
+# Hi, I’m Evan 
 
-<!--
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--->
-<!---
-eevanwong/eevanwong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🙌 About 
+
+I am a junior systems engineering student at the University of Waterloo. I'm interested in open-source, the poppins font, web dev, and anything inbetween! Currently, I'm developing a
+
+## I'm learning:
+- React/Redux
+- TypeScript
+- NodeJS/Express Backends
+- SQL
+- Firebase 
+- AI (Python)
+
+##Reach me @:
+Linkedin: https://www.linkedin.com/in/iamevanwong/
+Email: evan.wong@uwaterloo.ca
