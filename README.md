@@ -1,4 +1,4 @@
-# Hi, I’m Evan 
+# Hey! I'm Evan.
 
 ## 🙌 About 
 
