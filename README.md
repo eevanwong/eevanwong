@@ -3,7 +3,7 @@
 
 ### 🙌 About 
 
-I am a junior systems engineering student at the University of Waterloo. I'm interested in open-source, the poppins font, web dev, and anything inbetween! Currently, I'm developing a
+I am a junior systems engineering student at the University of Waterloo. I'm interested in open-source, the poppins font, web dev, and anything inbetween! Currently, I'm developing a 
 
 
 ### I'm learning:
