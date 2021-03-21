@@ -17,4 +17,4 @@ I'm a first year Systems Design Engineering student at the University of Waterlo
 ### Reach me @:
 Linkedin: https://www.linkedin.com/in/iamevanwong/
 <br>
-Email: evan.wong@uwaterloo.ca
+Email: e92wong@uwaterloo.ca
