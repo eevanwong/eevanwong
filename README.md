@@ -11,7 +11,6 @@ I'm a first year Systems Design Engineering student at the University of Waterlo
 - NodeJS/Express Backends
 - Neo4J
 - Firebase 
-- AI (Python)
 
 
 ### Reach me @:
