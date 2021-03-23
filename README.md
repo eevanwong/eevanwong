@@ -3,7 +3,7 @@
 
 ### 🙌 About 
 
-I'm a first year Systems Design Engineering student at the University of Waterloo. I'm interested in open-source, the poppins font, web dev, and anything inbetween! Currently working on a project that analyzes the correlation of NBA players and who they have indirectly played with.
+I'm a first year Systems Design Engineering student at the University of Waterloo. I'm interested in open-source, the poppins font, web dev, and anything inbetween! Currently working on a project that finds indirect connections of different NBA players.
 
 ### I'm learning:
 - React/Redux
