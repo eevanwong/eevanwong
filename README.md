@@ -10,6 +10,8 @@ I'm a first year Systems Design Engineering student at the University of Waterlo
 - TypeScript
 - NextJs
 - Firebase 
+- Java
+- Springboot
 
 
 ### Reach me @:
