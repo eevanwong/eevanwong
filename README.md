@@ -16,3 +16,5 @@ I'm a first year Systems Design Engineering student at the University of Waterlo
 Linkedin: https://www.linkedin.com/in/iamevanwong/
 <br>
 Email: e92wong@uwaterloo.ca
+
+[![My stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
