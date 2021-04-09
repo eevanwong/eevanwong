@@ -17,6 +17,4 @@ Linkedin: https://www.linkedin.com/in/iamevanwong/
 <br>
 Email: e92wong@uwaterloo.ca
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=eevanwong)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eevanwong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
