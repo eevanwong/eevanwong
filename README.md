@@ -10,7 +10,7 @@ I'm a first year Systems Design Engineering student at the University of Waterlo
 - TypeScript
 - NextJs
 - Firebase 
-- Flask
+- Spring
 
 
 ### Reach me @:
