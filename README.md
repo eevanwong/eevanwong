@@ -8,7 +8,6 @@ I'm a first year Systems Design Engineering student at the University of Waterlo
 ### I'm learning:
 - React/Redux
 - TypeScript
-- NextJs
 - SQL 
 - Django
 
