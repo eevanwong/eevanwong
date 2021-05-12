@@ -7,11 +7,8 @@ I'm a first year Systems Design Engineering student at the University of Waterlo
 
 ### I'm learning:
 - Redux
-- Apollo
-- GraphQL
 - TypeScript
-- SQL 
-- Django
+- Jest 
 
 
 ### Reach me @:
