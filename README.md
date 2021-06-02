@@ -9,6 +9,7 @@ I'm a first year Systems Design Engineering student at the University of Waterlo
 - Redux
 - TypeScript
 - Jest 
+- Flask & Django
 
 
 ### Reach me @:
