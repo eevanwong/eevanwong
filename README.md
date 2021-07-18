@@ -3,7 +3,7 @@
 
 ### 🙌 About 
 
-I'm a first year Systems Design Engineering student at the University of Waterloo. I'm interested in a lot of development (web apps, ML, open-source), competitive sports and esports, and anything inbetween! Currently looking for internships for fall term 2021.
+I'm a first year Systems Design Engineering student at the University of Waterloo. I'm interested in a lot of development (web apps, ML, open-source), competitive sports and esports, and anything inbetween! Currently looking for internships for summer term 2022.
 
 ### I'm learning:
 - Redux
