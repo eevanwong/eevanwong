@@ -3,12 +3,9 @@
 
 ### 🙌 About 
 
-I'm a first year Systems Design Engineering student at the University of Waterloo. I'm interested in a lot of development, competitive sports and esports, and anything inbetween! Currently looking for internships for summer term 2022.
+I'm a first year Systems Design Engineering student at the University of Waterloo. I'm interested in a lot of development, competitive sports and esports, and anything inbetween!
 
-### I'm learning:
-- Redux
-- Flask
-
+While mainly a JavaScript developer, I've been learning web technologies regarding Python and Go. Currently looking for internships for summer term 2022.
 
 ### Reach me @:
 Linkedin: https://www.linkedin.com/in/iamevanwong/
