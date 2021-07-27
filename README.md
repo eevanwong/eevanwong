@@ -11,5 +11,3 @@ While mainly a JavaScript developer, I've been learning web technologies regardi
 Linkedin: https://www.linkedin.com/in/iamevanwong/
 <br>
 Email: e92wong@uwaterloo.ca
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eevanwong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
