@@ -5,6 +5,8 @@
 
 I'm an incoming second year Systems Design Engineering student at the University of Waterloo. I'm interested in a lot of development, competitive sports and esports, and anything inbetween!
 
+Currently, I'm a Full Stack Developer @Heka-Health, and a Web Team Lead @Waterloop.
+
 While mainly a JS/TS developer, I've been learning web technologies regarding Go. Currently looking for internships in summer 2022.
 
 ### Reach me @:
