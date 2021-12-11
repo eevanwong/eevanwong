@@ -3,7 +3,7 @@
 
 ### 🙌 About 
 
-I'm an incoming second year Systems Design Engineering student at the University of Waterloo. I'm interested in development in web and distributed systems, as well as competitive sport and esports!
+I'm a second year Systems Design Engineering student at the University of Waterloo. I'm interested in development in web and distributed systems, as well as competitive sport and esports!
 
 Currently, I'm a Full Stack Developer at Heka Health, and a Web Team Lead at Waterloop, a student design team at the University of Waterloo.
 
