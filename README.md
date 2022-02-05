@@ -13,4 +13,3 @@ While mainly a JS/TS developer, I've been learning web technologies regarding Go
 ### Reach me @:
 Linkedin: https://www.linkedin.com/in/iamevanwong/
 <br>
-Email: e92wong@uwaterloo.ca
