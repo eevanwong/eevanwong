@@ -7,7 +7,7 @@ I'm a second year Systems Design Engineering student at the University of Waterl
 
 I'm also the web team lead at Waterloop!
 
-Currently looking for internships in summer 2022.
+Currently looking for internships in Winter 2023.
 
 While mainly a JS/TS developer, I've been learning web technologies regarding Go. 
 ### Reach me @:
