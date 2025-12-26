@@ -3,7 +3,7 @@
 
 ### 🙌 About 
 
-I'm a new grad from the University of Waterloo. Currently @microsoft. I'm interested in development in backend development and distributed systems, as well as competitive sport and esports!
+I'm a new grad from the University of Waterloo. Currently @microsoft. I'm interested in backend development and distributed systems, as well as competitive sport and esports!
 
 ### Reach me @:
 Linkedin: https://www.linkedin.com/in/iamevanwong/
